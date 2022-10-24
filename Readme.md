@@ -13,6 +13,7 @@
 <a href="https://instagram.com/_pranavsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pranavsen" height="30" width="40" /></a>
   <a href="https://fb.com/pranav.sen.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranav sen" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranavsen2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranavsen2019" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pranavsen962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranavsen962" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
