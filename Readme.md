@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav Sen</h1>
-<h3 align="center">An undergraduate from the Department of Computer Science and Engineering at the Vellore Institute of Technology, Bhopal.</h3>
+<h3 align="center">Software Engineer At Honeywell, Bangalore</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coder">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsen&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsen" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Net Core**
 
 - 📫 How to reach me **pranavsen962@gmail.com**
 
