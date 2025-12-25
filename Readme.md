@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="coder">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsen&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsen" /> </p>
 
-- 🌱 I’m currently learning **Net Core**
+- 🌱 I’m currently learning **.Net Core**
 
 - 📫 How to reach me **pranavsen962@gmail.com**
 
